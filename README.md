@@ -1,4 +1,4 @@
-# Vega_Jr.
+# Vega_Jr
 A simple and basic assistant chatbot using Python's Tkinter. Not the best but not the worst at his job, still a project in development so expect updates and new versions
 
 Vega Jr. is a personal desktop assistant built with Python and Tkinter.
